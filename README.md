@@ -12,11 +12,9 @@ The best regular expressions tool!
 
 1. Install the extension.
 2. Press `Shift + Ctrl + P`.
-3. Input `regexr`.
+3. Input `Run RegExr`.
 4. Press `Enter` and run it.
-
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v26d930d29eb3148bfa63b84cbec3726f6.png)
 
 ## Screenshot
 
-![](https://pic3.58cdn.com.cn/nowater/webim/big/n_v2e07432111d22422389627bf1ddc523e8.png)
+![](https://gitee.com/orangex4/picgo/raw/master/images/20220321144814.png)
