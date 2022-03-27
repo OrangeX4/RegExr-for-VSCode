@@ -17,4 +17,4 @@ The best regular expressions tool!
 
 ## Screenshot
 
-![](https://gitee.com/orangex4/picgo/raw/master/images/20220321144814.png)
+![](https://picgo-1258602555.cos.ap-nanjing.myqcloud.com/20220321144814.png)
